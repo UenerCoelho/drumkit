@@ -5,10 +5,10 @@ const sons = {
   'D': 'hihat.wav',
   'F': 'kick.wav',
   'G': 'openhat.wav',
-  'H': 'ride.wav',
-  'J': 'snare.wav',
-  'K': 'tink.wav',
-  'L': 'tom.wav'
+  'Q': 'ride.wav',
+  'W': 'snare.wav',
+  'E': 'tink.wav',
+  'R': 'tom.wav'
 }
 
 const criarDiv = (texto) => {
